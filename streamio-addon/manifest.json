@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "Addon to search and display Arabic Movies, TV Shows, and Web Series",
   "api": {
-    "endpoint": "https://arabic-catalog.onrender.com"
+    "endpoint": "https://arabic-catalog.onrender.com"  // Your backend API hosted on Render
   },
-  "logo": "https://your-logo-url.com",
+  "logo": "https://your-logo-url.com",  // Optional: Provide a URL for your addon logo
   "author": "Your Name",
-  "homepage": "https://your-website-url.com"
+  "homepage": "https://your-website-url.com"  // Optional: You can add a homepage for your addon
 }
