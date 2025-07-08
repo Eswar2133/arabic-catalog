@@ -1,0 +1,12 @@
+{
+  "id": "arabic-movie-addon",
+  "name": "Arabic Movie Addon",
+  "version": "1.0.0",
+  "description": "Addon to search and display Arabic Movies, TV Shows, and Web Series",
+  "api": {
+    "endpoint": "https://arabic-catalog.onrender.com"
+  },
+  "logo": "https://your-logo-url.com",
+  "author": "Your Name",
+  "homepage": "https://your-website-url.com"
+}
